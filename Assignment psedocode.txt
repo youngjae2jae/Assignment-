@@ -1,0 +1,14 @@
+Assigenment pseudocode
+
+1. if user is not registered in application he/she will click on register link
+   1.1 after click on register link form will be open with some required and non required field
+   1.2 there will be register and cancel button on register page 
+   1.3 on click of register button user will get register in system 
+   
+2. if user is present then he/she will click on login link
+ 
+    2.1 after logged in system will check user role
+	    if user role is Admin 
+		     then after logged in Admin user will redirect to user list page where user can see list of users present in system 
+		else 
+            other than Admin user will redirect to welcome page 
